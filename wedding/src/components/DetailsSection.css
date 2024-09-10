@@ -1,0 +1,32 @@
+/* src/components/DetailsSection.css */
+.details-section {
+  padding: 4rem;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.details-section h3 {
+  font-size: 2rem;
+  color: #444;
+}
+
+.details-section p {
+  font-size: 1.25rem;
+  margin: 0.5rem 0;
+}
+
+.rsvp-button {
+  background-color: #333;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 1.5rem;
+}
+
+.rsvp-button:hover {
+  background-color: #555;
+}
+
